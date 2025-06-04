@@ -40,6 +40,8 @@ function App() {
 		*/
 		
 
+		alert("aaaaa");
+		
 		const socket = new WebSocket('ws://localhost:8080');
 
 		setTimeout(function () {
