@@ -11,7 +11,7 @@ import { PieChart, Pie, BarChart, Bar, LineChart, Line, XAxis, YAxis, Tooltip, L
 import { addRepository, deleteRepository, filterData } from './utils/crudUtils';
 import axios from 'axios'
 
-const API_BASE_URL = 'http://localhost:5555'
+const API_BASE_URL = 'https://proiect-mpp-freu.onrender.com'
 
 function App() {
 	const [tables, setTables] = useState({});
