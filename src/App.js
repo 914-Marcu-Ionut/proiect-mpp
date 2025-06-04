@@ -544,7 +544,7 @@ function App() {
 	);
 }
 
-const auth_token = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsInVzZXJuYW1lIjoiYWRtaW4iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDcxNzMyNzIsImV4cCI6MTc0Nzc3ODA3Mn0.596od4Nru-2H3aStphKbYW4qpXd0MrzVETqkbXwIq1M'
+const auth_token = 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsInVzZXJuYW1lIjoiYWRtaW4iLCJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3NDkwMjIyMzEsImV4cCI6MTc0OTYyNzAzMX0.wv2ALakSp9B6UIi3s92xdTAXKo5VZDAIKictrhPxGvg'
 
 async function fetch_get(method, params) {
 	try {
